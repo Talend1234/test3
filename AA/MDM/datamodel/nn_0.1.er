@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ermodel="http://org.talend.mdm.datamodel.ermodel/1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <ermodel:ModelContainer xmi:id="_qjCnEHJVEeWUG6tzuBN4rg">
+    <entityContainer xmi:type="ermodel:EntityContainer" xmi:id="_qjDOIHJVEeWUG6tzuBN4rg"/>
+    <typeContainer xmi:type="ermodel:TypeContainer" xmi:id="_qjDOIXJVEeWUG6tzuBN4rg"/>
+  </ermodel:ModelContainer>
+  <notation:Diagram xmi:id="_qjghIHJVEeWUG6tzuBN4rg" type="ERmodel" element="_qjCnEHJVEeWUG6tzuBN4rg" name="nn_0.1.er" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_qjghIXJVEeWUG6tzuBN4rg"/>
+  </notation:Diagram>
+</xmi:XMI>
